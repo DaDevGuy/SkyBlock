@@ -1,6 +1,6 @@
 name: SkyBlocks
 authors: [GiantQuartz, DaDevGuy]
-main: Skyblocks\DaDevGuy
+main: Skyblocks\DaDevGuy\SkyBlock
 version: 1.0.0
 api: [4.0.0]
 
