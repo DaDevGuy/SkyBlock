@@ -5,4 +5,7 @@ branches:
 projects:
   SkyBlocks:
     path: ""
+    icon: "assets/images/icon.png"   
+    lint:
+      phpstan: false
 ...
